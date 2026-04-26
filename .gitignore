@@ -1,0 +1,4 @@
+.env
+node_modules/
+payroll-frontend/node_modules/
+payroll-frontend/dist/
